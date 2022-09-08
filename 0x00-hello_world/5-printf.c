@@ -2,14 +2,15 @@
 
 /*
  *
- *	main - Print with proper grammar, but the outcome is a piece of art,                      
+ *	main - Entry point                      
  *
  *	Description: Use printf
  *
- *	Return: 0
+ *	Return: Always 0 (Success)
 */                               
 
-int main(void)                            
+int main(void)                           
+
 {                              
 	printf("%s", "with proper grammar, but the outcome is a piece of art,\n");
 
