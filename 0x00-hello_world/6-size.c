@@ -2,8 +2,11 @@
 
 /*
  *
- *	main - Prints sized of characters
+ * 	main - Entry point
  *
+ *	Description: Prints sized of characters
+ *
+ *	Return: Always 0 (Success)
 */
 
 int main(void)
