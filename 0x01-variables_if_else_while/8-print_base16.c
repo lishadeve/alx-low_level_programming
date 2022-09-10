@@ -21,7 +21,7 @@ int main(void)
 	}
 	for (c = 'a'; c <= 'f'; c++)
 	{
-		putchar('\n');
+		putchar(c);
 	}
 	putchar('\n');
 
