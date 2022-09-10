@@ -2,11 +2,11 @@
 #include <unistd.h>
 
 /**
- * 	main - entry point
+ *	main - entry point
  *
- * 	Description: Prints char below 10.
+ *	Description: Prints char below 10.
  *
- * 	Return: 0
+ *	Return: 0
 */
 
 int main(void)
