@@ -13,9 +13,9 @@ int main(void)
 {
 	int a;
 
-	for (a = 'z'; a>= 'a'; a--);
+	for (a = 'z'; a >= 'a'; a--);
 	{
-		purchar(a);
+		putchar(a);
 	}
 	purchar('\n');
 
