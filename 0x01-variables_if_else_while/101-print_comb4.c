@@ -20,7 +20,7 @@ int main(void)
 			{
 				putchar(c);
 				putchar(i);
-				purchar(k);
+				putchar(k);
 
 				if (c != '7')
 				{
