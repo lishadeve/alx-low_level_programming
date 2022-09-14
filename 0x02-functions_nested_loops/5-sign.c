@@ -4,7 +4,7 @@
  *	print_sign - Entry point
  *	@n: Carrier variable
  *	Description: Prints the sign of a number.
- *	Returns: 1 if n > 0, 0 if n == 0, -1 if n < 0
+ *	Return: 1 if n > 0, 0 if n == 0, -1 if n < 0
 */
 
 int print_sign(int n)
@@ -20,5 +20,6 @@ int print_sign(int n)
 		return (-1);
 	}
 	_putchar('0');
+
 	return (0);
 }
