@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * 	numLength -
- * 	@num : Operand number
- * 	Description: Returns the lenth of string.
- * 	Return: Number of digits
+ *	numLength -lenth of string
+ *	@num : Operand number
+ *	Description: Returns the lenth of string.
+ *	Return: Number of digits
 */
 
 int numLength(int num)
@@ -25,7 +25,7 @@ int numLength(int num)
 }
 
 /**
- * 	main - Prints the first 98 fibonaci sequences.
+ *	main - Prints the first 98 fibonaci sequences.
  *	Return: 0
 */
 
