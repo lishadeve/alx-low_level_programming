@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 	times_table -
- * 	Description: Prints the 9 times table
- * 	Return: void
+ *	times_table -
+ *	Description: Prints the 9 times table
+ *	Return: void
 */
 
 void times_table(void)
@@ -34,7 +34,7 @@ void times_table(void)
 				_putchar(',');
 				_putchar(' ');
 				_putchar(tens + '0');
-				_putchar('ones + '0');
+				_putchar(ones + '0');
 			}
 		}
 		_putchar('\n');
