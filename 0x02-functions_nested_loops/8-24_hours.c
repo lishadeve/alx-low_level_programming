@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 	jack_bauer - entry point
- * 	Description: Peints every minute of the day.
- * 	Return: void
+ *	jack_bauer - entry point
+ *	Description: Peints every minute of the day.
+ *	Return: void
 */
 
 void jack_bauer(void)
