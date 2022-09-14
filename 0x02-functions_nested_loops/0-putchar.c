@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 	main - entry point
- * 	Description: Prints _putchar as a message.
- * 	Return: 0
+ *	main - entry point
+ *	Description: Prints _putchar as a message.
+ *	Return: 0
 */
 
 int main(void)
