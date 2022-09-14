@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * 	main - entry point
- * 	Description: Prints the first 52 fibonacci numbers.
- * 	Return: Nothing!
+ *	main - entry point
+ *	Description: Prints the first 52 fibonacci numbers.
+ *	Return: Nothing!
 */
 
 int main(void)
