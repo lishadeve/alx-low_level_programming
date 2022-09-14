@@ -55,7 +55,7 @@ int main(void)
 
 		if (i != 98)
 			printf(", ");
-		else 
+		else
 			printf("\n");
 		i++;
 	}
