@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 	ptint_alphabet_x10 - entry point
- * 	Description: Make alphabet 10 times.
- * 	Return: void
+ *	ptint_alphabet_x10 - entry point
+ *	Description: Make alphabet 10 times
+ *	Return: void
 */
 
 void print_alphabet_x10(void)
@@ -17,7 +17,8 @@ void print_alphabet_x10(void)
 		{
 			_putchar(c);
 		}
-		_putchar('n');
+
+		_putchar('\n');
 		i++;
 	}
 }
