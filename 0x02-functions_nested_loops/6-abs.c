@@ -1,10 +1,10 @@
 #include "main.h"
 
-/***
- * 	_abs - entry point
- * 	@n: n is an interger.
- * 	Description: Prints the absolute value of an interger.
- * 	Return: int
+/**
+ *	_abs - entry point
+ *	@n: n is an interger.
+ *	Description: Prints the absolute value of an interger.
+ *	Return: int
 */
 
 int _abs(int n)
