@@ -6,7 +6,7 @@
  *	Return: void
 */
 
-void ptint_diagonal(int n)
+void print_diagonal(int n)
 {
 	int i = 0, ii;
 
