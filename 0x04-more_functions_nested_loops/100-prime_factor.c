@@ -16,9 +16,9 @@ int main(void)
 		if (num % divisor == 0)
 		{
 			num = num / divisor;
-			large_prim = divisor;
+			larg_prim = divisor;
 		}
-		dovisor += 1;
+		divisor += 1;
 	}
 	printf("%ld\n", larg_prim);
 	return (0);
