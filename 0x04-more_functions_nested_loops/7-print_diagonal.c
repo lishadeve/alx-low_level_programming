@@ -1,6 +1,6 @@
 #include "main.h"
 
-/***
+/**
  *	print_diagonal - diagonal lines made of backslashes
  *	@n: number of \ to be printed
  *	Return: void
