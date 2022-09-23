@@ -34,7 +34,7 @@ char *rot13(char *str)
 			if (str[indx1] == alphabet[indx2])
 			{
 				str[indx1] = rot13key[indx2];
-				bresk;
+				break;
 			}
 		}
 		indx1++;
