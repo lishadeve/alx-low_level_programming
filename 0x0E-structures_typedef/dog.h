@@ -9,18 +9,16 @@
  *
  *	Description: struct named 'dog'. Contains name, age and owner.
 */
-
 struct dog
 {
 	char *name;
-	char *owner;
 	float age;
+	char *owner;
 };
 
 /**
  *	typedef dog_t - dog struct typedef
 */
-
 typedef struct dog dog_t;
 
 void init_dog(struct dog *d, char *name, float age, char *owner);
