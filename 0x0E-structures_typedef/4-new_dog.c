@@ -9,7 +9,7 @@ dog_t *new_dog(char *name, float age, char *owner);
  *	_strlen - finds the length of a string.
  *	@str: string to be measured.
  *
- *	Returns: length of the string.
+ *	Return: length of the string.
 */
 
 int _strlen(char *str)
@@ -78,8 +78,8 @@ dog_t *new_dog(char *name, float age, char *owner)
 		return (NULL);
 	}
 
-	doggy->name = _strcopy(doggy-name, name);
-	doggy->owner = _strcopy(doggy-owner, owner);
+	doggy->name = _strcopy(doggy->name, name);
+	doggy->owner = _strcopy(doggy->owner, owner);
 	doggy->age = age;
 
 	return (doggy);
