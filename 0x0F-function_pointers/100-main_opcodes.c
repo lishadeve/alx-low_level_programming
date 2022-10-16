@@ -34,14 +34,11 @@ int main(int argc, char *argv[])
 	{
 		if (index == bytes - 1)
 		{
-			if (index == bytes - 1)
-			{
-				printf("%02hhx\n", arr[i]);
-				break;
-			}
-
-			printf("%02hhx ", arr[i]);
+			printf("%02hhx\n", arr[index]);
+			break;
 		}
+
+		printf("%02hhx ", arr[index]);		
 	}
 
 	return (0);
