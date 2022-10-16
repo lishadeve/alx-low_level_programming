@@ -14,8 +14,8 @@ int main(int argc, char *argv[])
 	int bytes, index;
 	char *arr;
 
-	int (*address)(int, char **) = main;
-	unsigned char opcode;
+	//int (*address)(int, char **) = main;
+	//unsigned char opcode;
 
 	if (argc != 2)
 	{
